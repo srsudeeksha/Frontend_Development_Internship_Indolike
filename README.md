@@ -1,4 +1,4 @@
-# Indolike Frontend Internship Projects
+# Indolike Frontend Development Internship
 
 A collection of 3 frontend projects completed during my internship at Indolike.
 
